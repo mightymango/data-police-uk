@@ -1,0 +1,22 @@
+{
+    "name": "mightymango/data-police-uk",
+    "description": "A package for accessing the data.police.uk API.",
+    "type": "package",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Simon Barrett",
+            "email": "simon@mightymango.ltd",
+            "homepage": "https://mightymango.ltd"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "mightymango\\DataPoliceUK\\": "src/"
+        }
+    }
+}
