@@ -13,7 +13,6 @@
             "homepage": "https://mightymango.ltd"
         }
     ],
-    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "mightymango\\DataPoliceUK\\": "src/"
